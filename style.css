@@ -6,3 +6,11 @@
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
 }
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(#007bb2, #0d1423);
+}
