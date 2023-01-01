@@ -14,3 +14,13 @@ body{
     min-height: 100vh;
     background: linear-gradient(#007bb2, #0d1423);
 }
+
+.card{
+    position: relative;
+    width: 320px;
+    height: 450px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.25);
+    
+}
