@@ -56,7 +56,6 @@ body{
 .card .details{
     position: absolute;
     bottom: 0;
-    left: 0;
     padding: 20px;
     width: 100%;
     z-index: 2;
@@ -67,6 +66,11 @@ body{
     bottom: 40px;
 }
 
-.card .logo{
-    max-width: 1005;
+.card .deatils .logo{
+    max-width: 180px;
+}
+
+.card .details h3{
+    font-size: 14px;
+    color: #fff;
 }
