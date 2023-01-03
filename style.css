@@ -66,11 +66,25 @@ body{
     bottom: 40px;
 }
 
-.card .deatils .logo{
+.card .details .logo{
     max-width: 180px;
 }
 
 .card .details h3{
-    font-size: 14px;
+    font-size: 0.8em;
+    color: #fff;
+}
+
+.card .details .rating{
+    position: relative;
+    padding: 5px 0;
+}
+
+.card .details .rating .fa-star{
+    color: #f7f406;
+    font-size: 1em;
+}
+
+.card .details .rating span{
     color: #fff;
 }
