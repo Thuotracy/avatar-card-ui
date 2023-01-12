@@ -63,7 +63,7 @@ body{
 }
 
 .card:hover .details{
-    bottom: 40px;
+    bottom: 10px;
 }
 
 .card .details .logo{
