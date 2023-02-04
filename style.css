@@ -109,3 +109,18 @@ body{
     color: #fff;
     margin-top: 10px;
 }
+
+.card .details .cast{
+    position: relative;
+}
+
+.card .details .cast h4{
+    color: #fff;
+    margin-top: 10px;
+}
+
+.card .details .cast ul{
+    position: relative;
+    display: flex;
+    margin-top: 10px;
+}
