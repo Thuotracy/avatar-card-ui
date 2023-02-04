@@ -100,3 +100,7 @@ body{
     background: #03a8f5;
     border-radius: 4px;
 }
+
+.card .details .tags span:nth-child(2){
+    background: black;
+}
