@@ -88,3 +88,15 @@ body{
 .card .details .rating span{
     color: #fff;
 }
+
+.card .details .tags{
+    position: relative;
+    margin-top: 5px;
+}
+
+.card .details .tags span{
+    padding: 2px 5px;
+    color: #fff;
+    background: #03a8f5;
+    border-radius: 4px;
+}
