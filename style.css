@@ -55,7 +55,7 @@ body{
 
 .card .details{
     position: absolute;
-    bottom: 0;
+    bottom: -175px;
     padding: 20px;
     width: 100%;
     z-index: 2;
@@ -63,7 +63,7 @@ body{
 }
 
 .card:hover .details{
-    bottom: 10px;
+    bottom: 0;
 }
 
 .card .details .logo{
@@ -107,7 +107,7 @@ body{
 
 .card .details .info{
     color: #fff;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .card .details .cast{
