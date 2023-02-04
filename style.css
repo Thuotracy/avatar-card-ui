@@ -123,4 +123,18 @@ body{
     position: relative;
     display: flex;
     margin-top: 10px;
+    gap: 12px;
+}
+
+.card .details .cast ul li{
+    list-style: none;
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+    border-radius: 50px;
+    border: 2px solid #fff;
+}
+
+.card .details .cast ul li img{
+    max-width: 100%;
 }
