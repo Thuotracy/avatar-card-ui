@@ -104,3 +104,8 @@ body{
 .card .details .tags span:nth-child(2){
     background: black;
 }
+
+.card .details .info{
+    color: #fff;
+    margin-top: 10px;
+}
