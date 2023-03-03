@@ -87,6 +87,7 @@ body{
 
 .card .details .rating span{
     color: #fff;
+    margin-left: 10px;
 }
 
 .card .details .tags{
@@ -110,7 +111,12 @@ body{
     margin-top: 20px;
 }
 
-.card .details .cast{
+img{
+    max-width: 100%;
+    display: block;
+}
+
+/* .card .details .cast{
     position: relative;
 }
 
@@ -137,4 +143,4 @@ body{
 
 .card .details .cast ul li img{
     max-width: 100%;
-}
+} */
