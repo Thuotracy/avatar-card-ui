@@ -8,7 +8,7 @@ Avatar movie card design.
 * CSS
 
 ## Live link
-[thuotracy.github.io/image-slider/](https://thuotracy.github.io/image-slider/)
+https://thuotracy.github.io/avatar-card-ui/
 
 ## Support and contact details
 
