@@ -116,6 +116,34 @@ img{
     display: block;
 }
 
+.person{
+    position: relative;
+    max-width: rem;
+}
+
+.person-container{
+    background: palevioletred;
+}
+
+.person-circle{
+    width: 100px;
+    height: 100px;
+    /* inset: auto 0 0; */
+    position: absolute;
+    /* aspect-ratio: 1 / 1; */
+    object-fit: cover;
+    /* margin-inline: auto; */
+    border-radius: 50%;
+}
+
+.person-img{
+    position: relative;
+    z-index: 2;
+}
+
+
+
+
 /* .card .details .cast{
     position: relative;
 }
