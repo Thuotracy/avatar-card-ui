@@ -139,3 +139,10 @@ body{
 .card .details .cast ul li img{
     max-width: 100%;
 }
+
+.card .details .cast ul li:hover{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    transition: .5s ease-in-out;
+}
